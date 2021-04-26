@@ -22,8 +22,8 @@ Current platform issues:
 * Xbox/PS4 platform untested - see [issue 117](https://github.com/getnamo/socketio-client-ue4/issues/117)
 * Lumin platform untested - see [issue 114](https://github.com/getnamo/socketio-client-ue4/issues/114)
 
-HTTPS currently not yet supported
-* OpenSSL Support - [issue39](https://github.com/getnamo/socketio-client-ue4/issues/39), temporary [workaround available](https://github.com/getnamo/socketio-client-ue4/issues/72#issuecomment-371956821).
+
+* OpenSSL Support allready
 
 ## Quick Install & Setup ##
 
